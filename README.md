@@ -1,5 +1,5 @@
 USTH Advanced Programming with Python 2026
 ===============================================
 
-* Your name: **edit here**
-* Your id: **edit here**
+* Your name: **Pham Quang Duong**
+* Your id: **2540048**
